@@ -4,6 +4,10 @@
 
 In this project, we implement a simple game called **Snowman**. The purpose of the game is to prevent the snowman from hitting the sun and collecting as many snowflakes as possible. The more snowflakes you get, the harder the gameplay becomes.
 
+## References
+
+["Scratch – Imagine, Program, Share"](https://scratch.mit.edu/). Retrieved from [scratch.mit.edu](scratch.mit.edu) on 26 August 2021.
+
 ## License
 
 This project is licensed under the terms of the [MIT license](https://github.com/sprbpr/simple-tic-tac-toe/blob/main/LICENSE).
