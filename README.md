@@ -4,6 +4,10 @@
 
 In this project, we implement a simple game called **Snowman**. The purpose of the game is to prevent the snowman from hitting the sun and collecting as many snowflakes as possible. The more snowflakes you get, the harder the gameplay becomes.
 
+<div align="center">
+    <video src="docs/demo.mp4" type="video/mp4" width="700" controls></video>
+</div>
+
 ## References
 
 ["Scratch – Imagine, Program, Share"](https://scratch.mit.edu/). Retrieved from [scratch.mit.edu](scratch.mit.edu) on 26 August 2021.
