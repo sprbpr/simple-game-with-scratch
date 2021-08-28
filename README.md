@@ -6,7 +6,7 @@ In this project, we implement a simple game called **Snowman**. The purpose of t
 
 <div align="center">
     <video width="700" controls>
-        <source src="docs/demo.mp4">
+        <source src="docs/demo.mov">
         Your browser does not support this awesome video title.
     </video>
 </div>
