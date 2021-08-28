@@ -4,7 +4,7 @@
 
 In this project, we implement a simple game called **Snowman**. The purpose of the game is to prevent the snowman from hitting the sun and collecting as many snowflakes as possible. The more snowflakes you get, the harder the gameplay becomes.
 
-https://user-images.githubusercontent.com/89141923/131215456-0d570062-ccbe-4af8-b280-ac28693b6c4f.mov
+https://user-images.githubusercontent.com/89141923/131217194-c4c52e9f-64d8-4df3-82c4-d7f8586ba967.mov
 
 ## References
 
