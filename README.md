@@ -17,6 +17,18 @@ In both cases, the game runs well. If you're just interested in trying the game,
 
 In order to get the latest version of the Scratch application, you can follow the instruction provided in the [download page](https://scratch.mit.edu/download) of their website. On this page, they explain how to install the application for a variety of operating systems in addition to what are the requirements. Also, they provide previous versions of their application, in the case of you found a similar project but in the older version.
 
+## Getting Started
+
+First of all, you need to clone the project by following command.
+
+```bash
+git clone https://github.com/sprbpr/simple-game-with-scratch.git
+```
+
+Then, if you want to use the online version of Scratch, visit their [website](https://scratch.mit.edu/). From the navigation bar, click on `create`. On this page, you can write your own game or you can load the `snowman.sb3` file from the project, by clicking on the `file` option in the navigation bar and then choosing the `Load from your computer` option.
+
+When the game is loaded, you have this option to modify the game or fullscreen the game screen by clicking on the full-screen option on the top-right corner of the page. Now, you're ready to play, enjoy!
+
 ## References
 
 ["Scratch – Imagine, Program, Share"](https://scratch.mit.edu/). Retrieved from [scratch.mit.edu](scratch.mit.edu) on 26 August 2021.
