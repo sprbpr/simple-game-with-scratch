@@ -6,6 +6,17 @@ In this project, we implement a simple game called **Snowman**. The purpose of t
 
 https://user-images.githubusercontent.com/89141923/131217194-c4c52e9f-64d8-4df3-82c4-d7f8586ba967.mov
 
+## Installation
+
+There are two ways to run this project:
+
+- Use the online simulator.
+- Download and install the offline application
+
+In both cases, the game runs well. If you're just interested in trying the game, I recommend you to use the online version. It's really simple, and you don't need to install anything. But if you are curious enough to make your own game, I suggest you install the offline version so that you can write your game anytime without access to the internet.
+
+In order to get the latest version of the Scratch application, you can follow the instruction provided in the [download page](https://scratch.mit.edu/download) of their website. On this page, they explain how to install the application for a variety of operating systems in addition to what are the requirements. Also, they provide previous versions of their application, in the case of you found a similar project but in the older version.
+
 ## References
 
 ["Scratch – Imagine, Program, Share"](https://scratch.mit.edu/). Retrieved from [scratch.mit.edu](scratch.mit.edu) on 26 August 2021.
