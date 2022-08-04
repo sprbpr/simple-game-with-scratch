@@ -29,6 +29,16 @@ Then, if you want to use the online version of Scratch, visit their [website](ht
 
 When the game is loaded, you have this option to modify the game or fullscreen the game screen by clicking on the full-screen option on the top-right corner of the page. Now, you're ready to play, enjoy!
 
+## Description
+
+In this game, you have the task of rotating the game environment and trying to prevent the snowman from hitting the sun symbols while you can get the most snowball symbols. Each time the snowman reaches the game environment boundary, it is reflected in a random direction faster than before.
+
+The gameplay of the game is pretty straightforward. First, you need to press `space` to start the game. Then the game gives you some moments to prepare yourself for the game.
+
+After the game starts, press `←` and `→` to rotate the play scene clockwise and anticlockwise, respectively, to avoid the sun symbols and get snowflake ones. Each snowflake is worth one point; hitting the sun symbols, on the other hand, will make you lose.
+
+Also, while playing, you can pause the game by pressing `p`, resume it by pressing `r` and play again by pressing `space` if you lose. Every time you lose, your score is shown on the screen, representing the number of snowballs you have caught.
+
 ## References
 
 ["Scratch – Imagine, Program, Share"](https://scratch.mit.edu/). Retrieved from [scratch.mit.edu](scratch.mit.edu) on 26 August 2021.
